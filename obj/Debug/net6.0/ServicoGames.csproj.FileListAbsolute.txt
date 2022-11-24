@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\bin\Debug\net6.0\ServicoGames.exe
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\bin\Debug\net6.0\ServicoGames.deps.json
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\bin\Debug\net6.0\ServicoGames.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\bin\Debug\net6.0\ServicoGames.dll
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\bin\Debug\net6.0\ServicoGames.pdb
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.dll
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\refint\ServicoGames.dll
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.pdb
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ServicoGames.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\ServicoGames\obj\Debug\net6.0\ref\ServicoGames.dll
